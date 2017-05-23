@@ -53,7 +53,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![png](P3_Project_LorenzoSteccanella/output_2_0.png)
 
 
 
