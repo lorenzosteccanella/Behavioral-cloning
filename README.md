@@ -57,7 +57,7 @@ plt.show()
 
 
 
-![png](output_2_1.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_2_1.png)
 
 
 # Preprocess the images:
@@ -140,7 +140,7 @@ plt.show()
 
 
 
-![png](output_5_1.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_5_1.png)
 
 
     IMAGE CROPPED:
@@ -148,7 +148,7 @@ plt.show()
 
 
 
-![png](output_5_3.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_5_3.png)
 
 
     GAUSSIAN FILTERED IMAGE:
@@ -156,7 +156,7 @@ plt.show()
 
 
 
-![png](output_5_5.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_5_5.png)
 
 
     RESIZED IMAGE:
@@ -164,7 +164,7 @@ plt.show()
 
 
 
-![png](output_5_7.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_5_7.png)
 
 
     HIGH CONTRAST IMAGE:
@@ -172,7 +172,7 @@ plt.show()
 
 
 
-![png](output_5_9.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_5_9.png)
 
 
 # CNN Architecture and Generator
@@ -380,7 +380,7 @@ model.save("model.h5")
 
 
 
-![png](output_9_1.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_9_1.png)
 
 
 # Conclusion
