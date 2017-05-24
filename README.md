@@ -53,7 +53,7 @@ plt.show()
 ```
 
 
-![png](P3_Project_LorenzoSteccanella/output_2_0.png)
+![png](https://github.com/lorenzosteccanella/Behavioral-cloning/blob/master/P3-Project-LorenzoSteccanella/output_2_0.png)
 
 
 
